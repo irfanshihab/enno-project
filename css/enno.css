@@ -1,0 +1,1516 @@
+.hd1 a{
+  font-size: 40px;
+  color: #5f687b;
+  font-weight: bold;
+  text-decoration: none;
+}
+ .fixed-top{
+  
+  position: fixed;
+}
+#hedar{
+  background: #fff;
+    transition: all 0.4s;
+  }
+
+  
+#main-menu ul li a{
+      color: #5f687b;
+      font-size: 17px;
+      font-weight: bold;
+      margin-right: 10px;
+}
+
+#main-menu ul li a:hover  {
+  color: #16df7e;
+  transition: 0.5s;
+  
+}
+
+.navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
+  color: #16df7e;
+}
+
+
+
+
+
+ .getstarted {
+  padding: 7px 40px;
+  border-radius: 4px;
+  color: #5f687b;
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid #cdd1d9;
+  text-decoration: none;
+}
+ .btn-getstarted :hover {
+  background: #206bfb;
+ 
+  border-color: #206bfb;
+  text-decoration: none;
+}
+.btn-getstarted a:hover{
+
+   color: #fff;
+}
+/*...............................scnd*/
+
+.second{
+  margin-top: 30%;
+}
+
+.second h1{
+  font-size: 48px;
+      color: #3e4450;
+     
+}
+.second p{
+font-size: 27px;
+color:#858ea1;
+
+}
+
+
+.started {
+  padding: 10px 45px;
+  border-radius: 4px;
+   background: #16df7e;
+   color: #fff;
+  font-size: 17px;
+  font-weight: 500;
+  border: 1px solid #cdd1d9;
+  text-decoration: none;
+  margin-left: -10px;
+}
+ .btn-started :hover {
+  background: #206bfb;
+ transition: 0.5s;
+  border-color: #206bfb;
+  text-decoration: none;
+}
+.btn-started a:hover{
+
+   color: #fff;
+}
+
+
+.btn-vd .video {
+  font-size: 20px;
+  transition: 0.5s;
+  color: #5f687b;
+  text-decoration: none;
+  
+}
+
+.btn-vd .video i {
+  color: #949cac;
+  font-size: 30px;
+  
+  margin-right: 5px;
+}
+
+.btn-vd .video:hover i {
+  color: #16df7e;
+  font-size: 20px;
+}
+
+.img1 img {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@keyframes up-down {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}
+
+
+/*...............third part modal*/
+
+#three .card{
+   background: #f9f9fa;
+   height: 100%;
+   border: none;
+}
+#three{
+  margin-top: 6%;
+}
+#three .card-body h2 i{
+  font-size: 35px;
+ color: #16df7e;
+}
+
+ #three .card-body h4{
+  font-size: 20px;
+    color: #5f687b;
+  margin-top: 20px;
+}
+
+ #three .card-body h4:hover{
+  color: #16df7e;
+}
+#three .card-text {
+  color: #949cac;
+  margin-top: 20px;
+}
+
+/*........................end three*/
+
+
+#four h2{
+  color: #5f687b;
+  font-size: 32px;
+  font-weight: bold;
+}
+    
+#four{
+      margin-top: 10%;
+   }
+
+#four .italic{
+  font-size: 17px;
+  font-style: italic;
+
+}
+
+#four p{
+  font-size: 17px;
+  margin-top: 10px;
+}
+#four .fa-check-circle{
+  font-size: 20px;
+  color: #16df7e;
+  margin-right: 15px;
+  margin-top: 16px;
+}
+
+#four li{
+  font-size: 17px;
+}
+
+/*................ new six part.....*/
+
+#six6 {
+  margin-top: 10%;
+  
+   background-color: #f9f9fa;
+  padding-bottom: 10%;
+  
+}
+
+
+.six1 h2{
+  color: #5f687b;
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+.six1{
+    padding-top: 10%;    
+}
+
+
+.six1 p{
+       font-size: 17px;
+      margin-top: 20px;
+}
+
+.six3{
+  margin-top: 20px;
+}
+
+#six6 .card{
+  border: none;
+   padding: 80px 20px;
+  
+}
+
+#six6 .card-subtitle{
+  font-size: 24px;
+  margin-top: 20px;
+  color: #5f687b;
+}
+#six6 .card-subtitle:hover{
+  color: #16df7e;
+}
+
+#six6 .card-title i{
+      color: #16df7e;
+}
+
+#six6 .card-text{
+  margin-top: 15px;
+
+}
+
+/*..................call section start*/
+
+#call{
+      background: #16df7e;
+      background-size: cover;
+     padding: 60px 30px;
+     margin-top: 5%;
+}
+
+.call2 h2{
+  color: white;
+  font-size: 30px;
+}
+
+.call2 p{
+  color:white ;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.cta{
+  padding: 9px 45px;
+ 
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  border: 3px solid #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+ .btn-cta :hover {
+  background: #206bfb;
+ transition: 1s;
+  border-color: #206bfb;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.btn-cta a:hover{
+
+   color: #fff;
+}
+.btn-cta{
+  margin-top: 20px;
+}
+
+/*..............................................................
+ breakpoint 
+.............................................................*/
+
+@media(min-width: 275px) and (max-width: 320px){
+
+.btn-getstarted {
+   text-align: left;
+       padding: 9px 1px;
+       
+  }
+
+.getstarted{
+
+ padding-right: 50%;
+}
+   
+
+
+.second{
+  margin-top: 20%;
+
+}
+
+.second h1{
+  font-size: 27px;
+      color: #3e4450;
+     
+}
+.second p{
+font-size: 17px;
+color:#858ea1;
+
+}
+
+
+.started {
+      padding: 13px 11px 12px 17px;
+  border-radius: 4px;
+   background: #16df7e;
+   color: #fff;
+  font-size: 15px;
+  margin-left: -10px;
+}
+ .btn-started :hover {
+  background: #206bfb;
+ transition: 0.5s;
+  border-color: #206bfb;
+  text-decoration: none;
+}
+
+
+
+.btn-vd .video {
+  font-size: 16px;
+  transition: 0.5s;
+  color: #5f687b;
+  text-decoration: none;
+  
+}
+
+.btn-vd .video i {
+  color: #949cac;
+  font-size: 25px;
+  
+  margin-right: 0px;
+}
+
+.btn-vd .video:hover i {
+  color: #16df7e;
+  font-size: 17px;
+}
+
+.img1 img {
+  animation: none;
+  margin-top: 10%;
+   max-width: 80%;
+}
+
+@keyframes up-down {
+  0% {
+    transform: none;
+  }
+  100% {
+    transform: none;
+  }
+}
+
+/*..........................part three*/
+
+
+#three .card{
+   background: #f9f9fa;
+   height: 100%;
+   border: none;
+}
+#three{
+  margin-top: 20%;
+}
+
+#three .Duis{
+  margin-top: 40px;
+}
+#three .Sed{
+  margin-top: 20px;
+}
+
+#three .card-body h2 i{
+  font-size: 28px;
+ color: #16df7e;
+}
+
+ #three .card-body h4{
+  font-size: 17px;
+    color: #5f687b;
+  margin-top: 20px;
+}
+
+ #three .card-body h4:hover{
+  color: #16df7e;
+}
+#three .card-text {
+  color: #949cac;
+  margin-top: 20px;
+  font-size: 12px;
+}
+
+
+
+
+/* four part*/
+
+#four h2{
+  color: #5f687b;
+  font-size: 24px;
+  margin-top: 15px;
+  text-align: center;
+}
+    
+#four .four1{
+      margin-top: 10%;
+   }
+
+#four .italic{
+  font-size: 15px;
+  font-style: italic;
+
+}
+
+#four p{
+  font-size: 15px;
+  margin-top: 10px;
+}
+#four .fa-check-circle{
+  font-size: 18px;
+  color: #16df7e;
+  margin-right: 15px;
+  margin-top: 16px;
+}
+
+#four li{
+  font-size: 15px;
+}
+
+
+
+/*  .................last part*/
+
+.call2 h2{
+  color: white;
+  font-size: 28px;
+}
+
+.call2 p{
+  color:white ;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.cta{
+  padding: 9px 20px;
+ 
+  color: white;
+  font-size: 17px;
+  
+  border: 2px solid #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media(min-width: 321px) and (max-width: 480px){
+
+  .btn-getstarted {
+    text-align: left;
+        padding: 9px 1px;
+        
+   }
+ 
+ .getstarted{
+ 
+  padding-right: 50%;
+ }
+    
+ 
+ 
+ .second{
+   margin-top: 20%;
+ 
+ }
+ 
+ .second h1{
+   font-size: 27px;
+       color: #3e4450;
+      
+ }
+ .second p{
+ font-size: 17px;
+ color:#858ea1;
+ 
+ }
+ 
+ 
+ .started {
+       padding: 13px 11px 12px 17px;
+   border-radius: 4px;
+    background: #16df7e;
+    color: #fff;
+   font-size: 15px;
+   margin-left: -10px;
+ }
+  .btn-started :hover {
+   background: #206bfb;
+  transition: 0.5s;
+   border-color: #206bfb;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+ .btn-vd .video {
+   font-size: 16px;
+   transition: 0.5s;
+   color: #5f687b;
+   text-decoration: none;
+   
+ }
+ 
+ .btn-vd .video i {
+   color: #949cac;
+   font-size: 25px;
+   
+   margin-right: 0px;
+ }
+ 
+ .btn-vd .video:hover i {
+   color: #16df7e;
+   font-size: 17px;
+ }
+ 
+ .img1 img {
+   animation: none;
+   margin-top: 20%;
+    max-width: 70%;
+ }
+ 
+ @keyframes up-down {
+   0% {
+     transform: none;
+   }
+   100% {
+     transform: none;
+   }
+ }
+ 
+ /*..........................part three*/
+ 
+ 
+ #three .card{
+    background: #f9f9fa;
+    height: 100%;
+    border: none;
+ }
+ #three{
+   margin-top: 20%;
+ }
+ 
+ #three .Duis{
+   margin-top: 40px;
+ }
+ #three .Sed{
+   margin-top: 20px;
+ }
+ 
+ #three .card-body h2 i{
+   font-size: 28px;
+  color: #16df7e;
+ }
+ 
+  #three .card-body h4{
+   font-size: 18px;
+     color: #5f687b;
+   margin-top: 20px;
+ }
+ 
+  #three .card-body h4:hover{
+   color: #16df7e;
+ }
+ #three .card-text {
+   color: #949cac;
+   margin-top: 20px;
+   font-size: 14px;
+ }
+ 
+ 
+ 
+ 
+ /* four part*/
+ 
+ #four h2{
+   color: #5f687b;
+   font-size: 24px;
+   margin-top: 15px;
+   text-align: center;
+ }
+     
+ #four .four1{
+       margin-top: 10%;
+    }
+ 
+ #four .italic{
+   font-size: 15px;
+   font-style: italic;
+ 
+ }
+ 
+ #four p{
+   font-size: 15px;
+   margin-top: 10px;
+ }
+ #four .fa-check-circle{
+   font-size: 18px;
+   color: #16df7e;
+   margin-right: 15px;
+   margin-top: 16px;
+ }
+ 
+ #four li{
+   font-size: 15px;
+ }
+ 
+ 
+ 
+ /*  .................last part*/
+ 
+ .call2 h2{
+   color: white;
+   font-size: 28px;
+ }
+ 
+ .call2 p{
+   color:white ;
+   font-size: 16px;
+   margin-top: 20px;
+ }
+ 
+ .cta{
+   padding: 9px 20px;
+  
+   color: white;
+   font-size: 17px;
+   
+   border: 2px solid #fff;
+   text-decoration: none;
+   border-radius: 4px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+}
+
+
+@media(min-width: 481px) and (max-width: 576px){
+
+
+  .btn-getstarted {
+    text-align: left;
+        padding: 9px 1px;
+        
+   }
+ 
+ .getstarted{
+ 
+  padding-right: 50%;
+ }
+    
+ 
+ 
+ .second{
+   margin-top: 20%;
+ 
+ }
+ 
+ .second h1{
+   font-size: 35px;
+       color: #3e4450;
+      
+ }
+ .second p{
+ font-size: 18px;
+ color:#858ea1;
+ 
+ }
+ 
+ 
+ .started {
+      
+   border-radius: 4px;
+    background: #16df7e;
+    color: #fff;
+   font-size: 15px;
+   margin-left: -10px;
+ }
+  .btn-started :hover {
+   background: #206bfb;
+  transition: 0.5s;
+   border-color: #206bfb;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+ .btn-vd .video {
+   font-size: 16px;
+   transition: 0.5s;
+   color: #5f687b;
+   text-decoration: none;
+   
+ }
+ 
+ .btn-vd .video i {
+   color: #949cac;
+   font-size: 25px;
+   
+   margin-right: 0px;
+ }
+ 
+ .btn-vd .video:hover i {
+   color: #16df7e;
+   font-size: 17px;
+ }
+ 
+ .img1 img {
+   /* animation: none; */
+   margin-top: 20%;
+    max-width: 80%;
+ }
+ /*  
+ @keyframes up-down {
+   0% {
+     transform: none;
+   }
+   100% {
+     transform: none;
+   }
+ }
+ */
+ /*..........................part three*/
+ 
+ 
+ #three .card{
+    background: #f9f9fa;
+    height: 100%;
+    border: none;
+ }
+ #three{
+   margin-top: 20%;
+ }
+ 
+ #three .Duis{
+   margin-top: 40px;
+ }
+ #three .Sed{
+   margin-top: 20px;
+ }
+ 
+ #three .card-body h2 i{
+   font-size: 28px;
+  color: #16df7e;
+ }
+ 
+  #three .card-body h4{
+   font-size: 20px;
+     color: #5f687b;
+   margin-top: 20px;
+ }
+ 
+  #three .card-body h4:hover{
+   color: #16df7e;
+ }
+ #three .card-text {
+   color: #949cac;
+   margin-top: 20px;
+   font-size: 16px;
+ }
+ 
+ 
+ 
+ 
+ /* four part*/
+ 
+ #four h2{
+   color: #5f687b;
+   font-size: 24px;
+   margin-top: 15px;
+   text-align: center;
+ }
+     
+ #four .four1{
+       margin-top: 10%;
+    }
+ 
+ #four .italic{
+   font-size: 15px;
+   font-style: italic;
+ 
+ }
+ 
+ #four p{
+   font-size: 15px;
+   margin-top: 10px;
+ }
+ #four .fa-check-circle{
+   font-size: 18px;
+   color: #16df7e;
+   margin-right: 15px;
+   margin-top: 16px;
+ }
+ 
+ #four li{
+   font-size: 15px;
+ }
+ 
+ 
+ 
+ /*  .................last part*/
+ 
+ .call2 h2{
+   color: white;
+   font-size: 28px;
+ }
+ 
+ .call2 p{
+   color:white ;
+   font-size: 16px;
+   margin-top: 20px;
+ }
+ 
+ .cta{
+   padding: 9px 20px;
+  
+   color: white;
+   font-size: 17px;
+   
+   border: 2px solid #fff;
+   text-decoration: none;
+   border-radius: 4px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+}
+
+@media(min-width: 576px) and (max-width: 640px){
+
+.btn-getstarted {
+    text-align: left;
+        padding: 9px 1px;
+        
+   }
+ 
+ .getstarted{
+ 
+  padding-right: 50%;
+ }
+    
+ 
+ 
+ .second{
+   margin-top: 20%;
+ 
+ }
+ 
+ .second h1{
+   font-size: 38px;
+       color: #3e4450;
+      
+ }
+ .second p{
+ font-size: 18px;
+ color:#858ea1;
+ 
+ }
+ 
+ 
+ .started {
+      
+   border-radius: 4px;
+    background: #16df7e;
+    color: #fff;
+   font-size: 15px;
+   margin-left: -10px;
+ }
+  .btn-started :hover {
+   background: #206bfb;
+  transition: 0.5s;
+   border-color: #206bfb;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+ .btn-vd .video {
+   font-size: 16px;
+   transition: 0.5s;
+   color: #5f687b;
+   text-decoration: none;
+   
+ }
+ 
+ .btn-vd .video i {
+   color: #949cac;
+   font-size: 25px;
+   
+   margin-right: 0px;
+ }
+ 
+ .btn-vd .video:hover i {
+   color: #16df7e;
+   font-size: 17px;
+ }
+ 
+ .img1 img {
+   /* animation: none; */
+   margin-top: 20%;
+    max-width: 80%;
+ }
+ /*  
+ @keyframes up-down {
+   0% {
+     transform: none;
+   }
+   100% {
+     transform: none;
+   }
+ }
+ */
+ /*..........................part three*/
+ 
+ 
+ #three .card{
+    background: #f9f9fa;
+    height: 100%;
+    border: none;
+ }
+ #three{
+   margin-top: 20%;
+ }
+ 
+ #three .Duis{
+   margin-top: 40px;
+ }
+ #three .Sed{
+   margin-top: 20px;
+ }
+ 
+ #three .card-body h2 i{
+   font-size: 28px;
+  color: #16df7e;
+ }
+ 
+  #three .card-body h4{
+   font-size: 20px;
+     color: #5f687b;
+   margin-top: 20px;
+ }
+ 
+  #three .card-body h4:hover{
+   color: #16df7e;
+ }
+ #three .card-text {
+   color: #949cac;
+   margin-top: 20px;
+   font-size: 16px;
+ }
+ 
+ 
+ 
+ 
+ /* four part*/
+ 
+ #four h2{
+   color: #5f687b;
+   font-size: 24px;
+   margin-top: 15px;
+   text-align: center;
+ }
+     
+ #four .four1{
+       margin-top: 10%;
+    }
+ 
+ #four .italic{
+   font-size: 15px;
+   font-style: italic;
+ 
+ }
+ 
+ #four p{
+   font-size: 15px;
+   margin-top: 10px;
+ }
+ #four .fa-check-circle{
+   font-size: 18px;
+   color: #16df7e;
+   margin-right: 15px;
+   margin-top: 16px;
+ }
+ 
+ #four li{
+   font-size: 15px;
+ }
+ 
+ 
+ 
+ /*  .................last part*/
+ 
+ .call2 h2{
+   color: white;
+   font-size: 28px;
+ }
+ 
+ .call2 p{
+   color:white ;
+   font-size: 16px;
+   margin-top: 20px;
+ }
+ 
+ .cta{
+   padding: 9px 20px;
+  
+   color: white;
+   font-size: 17px;
+   
+   border: 2px solid #fff;
+   text-decoration: none;
+   border-radius: 4px;
+ }
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+}/* end of 640*/
+
+
+
+@media(min-width: 641px) and (max-width: 767px){
+
+.btn-getstarted {
+    text-align: left;
+        padding: 9px 1px;
+        
+   }
+ 
+ .getstarted{
+ 
+  padding-right: 50%;
+ }
+    
+ 
+ 
+ .second{
+   margin-top: 20%;
+ 
+ }
+ 
+ .second h1{
+   font-size: 40px;
+       color: #3e4450;
+      
+ }
+ .second p{
+ font-size: 20px;
+ color:#858ea1;
+ 
+ }
+ 
+ 
+ .started {
+      
+   border-radius: 4px;
+    background: #16df7e;
+    color: #fff;
+   font-size: 15px;
+   margin-left: -10px;
+ }
+  .btn-started :hover {
+   background: #206bfb;
+  transition: 0.5s;
+   border-color: #206bfb;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+ .btn-vd .video {
+   font-size: 16px;
+   transition: 0.5s;
+   color: #5f687b;
+   text-decoration: none;
+   
+ }
+ 
+ .btn-vd .video i {
+   color: #949cac;
+   font-size: 25px;
+   
+   margin-right: 0px;
+ }
+ 
+ .btn-vd .video:hover i {
+   color: #16df7e;
+   font-size: 17px;
+ }
+ 
+ .img1 img {
+   /* animation: none; */
+   margin-top: 20%;
+   max-width: 80%;
+ }
+ /*  
+ @keyframes up-down {
+   0% {
+     transform: none;
+   }
+   100% {
+     transform: none;
+   }
+ }
+ */
+ /*..........................part three*/
+ 
+ 
+ #three .card{
+    background: #f9f9fa;
+    height: 100%;
+    border: none;
+ }
+ #three{
+   margin-top: 20%;
+ }
+ 
+ #three .Duis{
+   margin-top: 40px;
+ }
+ #three .Sed{
+   margin-top: 20px;
+ }
+ 
+ #three .card-body h2 i{
+   font-size: 30px;
+  color: #16df7e;
+ }
+ 
+  #three .card-body h4{
+   font-size: 24px;
+     color: #5f687b;
+   margin-top: 20px;
+ }
+ 
+  #three .card-body h4:hover{
+   color: #16df7e;
+ }
+ #three .card-text {
+   color: #949cac;
+   margin-top: 20px;
+   font-size: 18px;
+ }
+ 
+ 
+ 
+ 
+ /* four part*/
+ 
+ #four h2{
+   color: #5f687b;
+   font-size: 24px;
+   margin-top: 15px;
+   text-align: center;
+ }
+     
+ #four .four1{
+       margin-top: 10%;
+    }
+ 
+ #four .italic{
+   font-size: 17px;
+   font-style: italic;
+ 
+ }
+ 
+ #four p{
+   font-size: 17px;
+   margin-top: 10px;
+ }
+ #four .fa-check-circle{
+   font-size: 20px;
+   color: #16df7e;
+   margin-right: 15px;
+   margin-top: 16px;
+ }
+ 
+ #four li{
+   font-size: 15px;
+ }
+ 
+ 
+ 
+ /*  .................last part*/
+ 
+ .call2 h2{
+   color: white;
+   font-size: 28px;
+ }
+ 
+ .call2 p{
+   color:white ;
+   font-size: 18px;
+   margin-top: 20px;
+ }
+ 
+ .cta{
+   padding: 9px 20px;
+  
+   color: white;
+   font-size: 17px;
+   
+   border: 2px solid #fff;
+   text-decoration: none;
+   border-radius: 4px;
+ }
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+}/* end of 767*/
+
+
+
+@media(min-width: 768px) and (max-width: 991px){
+
+
+
+.btn-getstarted {
+    text-align: left;
+        padding: 9px 1px;
+        
+   }
+ 
+ .getstarted{
+ 
+  padding-right: 50%;
+ }
+    
+ 
+ 
+ .second{
+   margin-top: 10%;
+ 
+ }
+ 
+ .second h1{
+   font-size: 50px;
+       color: #3e4450;
+      
+ }
+ .second p{
+ font-size: 24px;
+ color:#858ea1;
+ 
+ }
+ 
+ 
+ .started {
+      
+   border-radius: 4px;
+    background: #16df7e;
+    color: #fff;
+   font-size: 15px;
+   margin-left: -10px;
+ }
+  .btn-started :hover {
+   background: #206bfb;
+  transition: 0.5s;
+   border-color: #206bfb;
+   text-decoration: none;
+ }
+ 
+ 
+ 
+ .btn-vd .video {
+   font-size: 16px;
+   transition: 0.5s;
+   color: #5f687b;
+   text-decoration: none;
+   
+ }
+ 
+ .btn-vd .video i {
+   color: #949cac;
+   font-size: 25px;
+   
+   margin-right: 0px;
+ }
+ 
+ .btn-vd .video:hover i {
+   color: #16df7e;
+   font-size: 17px;
+ }
+ 
+ .img1 img {
+   animation: none; 
+   margin-top: 20%;
+   max-width: 50%;
+   
+   margin-left: 25%;
+ }
+ /*  
+ @keyframes up-down {
+   0% {
+     transform: none;
+   }
+   100% {
+     transform: none;
+   }
+ }
+ */
+ /*..........................part three*/
+ 
+ 
+ #three .card{
+    background: #f9f9fa;
+    height: 100%;
+    border: none;
+ }
+ #three{
+   margin-top: 20%;
+ }
+ 
+ #three .Duis{
+   margin-top: 20px;
+ }
+ /*
+ #three .Sed{
+   margin-top: 20px;
+ }*/
+ 
+ #three .card-body h2 i{
+   font-size: 30px;
+  color: #16df7e;
+ }
+ 
+  #three .card-body h4{
+   font-size: 24px;
+     color: #5f687b;
+   margin-top: 20px;
+ }
+ 
+  #three .card-body h4:hover{
+   color: #16df7e;
+ }
+ #three .card-text {
+   color: #949cac;
+   margin-top: 20px;
+   font-size: 18px;
+ }
+ 
+ 
+ 
+ 
+ /* four part*/
+ 
+ #four h2{
+   color: #5f687b;
+   font-size: 28px;
+   margin-top: 20px;
+   text-align: center;
+ }
+     
+ #four .four1{
+       margin-top: 10%;
+    }
+ 
+ #four .italic{
+   font-size: 18px;
+   font-style: italic;
+ 
+ }
+ 
+ #four p{
+   font-size: 18px;
+   margin-top: 10px;
+ }
+ #four .fa-check-circle{
+   font-size: 20px;
+   color: #16df7e;
+   margin-right: 15px;
+   margin-top: 16px;
+ }
+ 
+ #four li{
+   font-size: 18px;
+ }
+
+
+
+
+ #six6 .card {
+    border: none;
+    padding: 80px 3px;
+ }
+ 
+ 
+ /*  .................last part*/
+ 
+ .call2 h2{
+   color: white;
+   font-size: 28px;
+ }
+ 
+ .call2 p{
+   color:white ;
+   font-size: 18px;
+   margin-top: 20px;
+ }
+ 
+ .cta{
+   padding: 9px 20px;
+  
+   color: white;
+   font-size: 17px;
+   
+   border: 2px solid #fff;
+   text-decoration: none;
+   border-radius: 4px;
+ }
+ 
+
+
+
+
+
+}
+
+
